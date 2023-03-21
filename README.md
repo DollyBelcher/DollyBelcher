@@ -1,5 +1,5 @@
 ## Hi, I'm Dolly
-### A Data Scientist!
+### Data Scientist
 
 - 🔭 I’m currently working on **Google IT Automation with Python Professional Certificate**
 - 📫 Reach me at **dollybelcher@hotmail.com**
