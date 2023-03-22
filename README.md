@@ -5,7 +5,7 @@
 - 📫 Reach me at **dollybelcher@hotmail.com**
 - 📄 Know about my experiences on [linkedin](linkedin.com/in/dollybelcher)
 
-### Have a look at some examples of my work:
+### Have a look at an example of my work:
 - [YOGi](https://github.com/edwardmb12/YOGi) - Yoga pose detection and correction platform.
 
 <h3 align="left">Connect with me:</h3>
