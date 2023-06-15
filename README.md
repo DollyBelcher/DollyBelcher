@@ -6,7 +6,8 @@
 - 📄 Know about my experiences on [linkedin](linkedin.com/in/dollybelcher)
 
 ### Have a look at an example of my work:
-- [YOGi](https://github.com/edwardmb12/YOGi) - Yoga pose detection and correction platform.
+- [YOGi]([https://github.com/edwardmb12/YOGi](https://github.com/DollyBelcher/YOGi)) - Yoga pose detection and correction platform.
+- [Netflix](https://github.com/DollyBelcher/netflix) - Analyse your Netflix data and predict new shows to try! Check out the website [here](https://dollybelcher-netflix-app-lxmd4r.streamlit.app/test)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
